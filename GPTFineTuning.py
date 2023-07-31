@@ -7,7 +7,7 @@ import os
 import random
 #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
 
-openai.api_key = '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'
+openai.api_key = ''######YOUR API KEY######
 
 
 #Inputs the script files
