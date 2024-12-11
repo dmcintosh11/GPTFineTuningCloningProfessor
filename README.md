@@ -1,7 +1,7 @@
 # GPTFineTuningCloningProfessor
 My final project for my machine learning class which involved creating a digital clone of my professor to do a lecture on any subject in her style.
 
-Presentation with example here: https://www.canva.com/design/DAFifv4zqec/ngEE-Ty1OiiTTOZEv2AcOw/view?utm_content=DAFifv4zqec&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#11
+Presentation with example [here](https://www.canva.com/design/DAFwDr9fkmY/Pwx2M4g0UaEKbCcZ7bBhCw/view?utm_content=DAFwDr9fkmY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haaa8789343)!
 
 Dr. Parlett's YouTube to see for reference on eery accuracy: https://www.youtube.com/@ChelseaPelleriti/videos
 
