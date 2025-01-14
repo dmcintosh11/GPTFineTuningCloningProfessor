@@ -1,5 +1,5 @@
 # GPTFineTuningCloningProfessor
-My final project for my machine learning class which involved creating a digital clone of my professor to do a lecture on any subject in her style.
+Utilizing early version of GPT for creating a digital clone of my professor to do a lecture on any subject in her style.
 
 Presentation with example [here](https://www.canva.com/design/DAFwDr9fkmY/Pwx2M4g0UaEKbCcZ7bBhCw/view?utm_content=DAFwDr9fkmY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haaa8789343)!
 
